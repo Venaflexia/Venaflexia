@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif)](https://airteriae.com/seismiclink/)
+[![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif)](https://airteriae.com/seismiclink/)
 <h1 align="center">Hi 👋, I'm Babürşah Baz</h1>
 <h3 align="center">A passionate .net developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
