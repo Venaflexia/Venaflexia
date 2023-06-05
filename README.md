@@ -1,4 +1,4 @@
-[![MasterHead](https://soranews24.com/wp-content/uploads/sites/3/2015/07/tumblr_njlqclfisw1qze3hdo1_r2_500.gif)](https://airteriae.com/seismiclink/)
+[![MasterHead](https://i.gifer.com/YT02.gif)](https://airteriae.com)
 <h1 align="center">Hi 👋, I'm Babürşah Baz</h1>
 <h3 align="center">A passionate .net developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
