@@ -23,9 +23,3 @@ I'm Babürşah Baz, a passionate .NET developer from Turkey.
 - SQLite
 - Xamarin
 
-## GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venaflexia&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venaflexia&show_icons=true&locale=en)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venaflexia)
