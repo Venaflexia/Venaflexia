@@ -8,8 +8,6 @@ I'm Babürşah Baz, a passionate .NET developer from Turkey.
 - 📫 How to reach me: [Website](https://airteriae.com/seismiclink/)
 
 ## Connect with Me:
-
-[![Twitter](https://img.shields.io/twitter/follow/venaflexia?logo=twitter&style=for-the-badge)](https://twitter.com/venaflexia)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/babürşah-baz-641a86271)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://instagram.com/venaflexia)
 
